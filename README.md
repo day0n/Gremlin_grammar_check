@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ## 使用方法
 
 
-2. RUN
+RUN
 ```bash
 python gremlin_checker.py
 # 然后输入查询语句，按Ctrl+D结束输入
