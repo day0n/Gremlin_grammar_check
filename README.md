@@ -23,5 +23,7 @@ python gremlin_checker.py
 Reference
 
 https://github.com/eosphoros-ai/DB-GPT-Hub/tree/main
+
 https://github.com/TuGraph-family/Awesome-Text2GQL
+
 https://tomassetti.me/antlr-mega-tutorial/#chapter17
